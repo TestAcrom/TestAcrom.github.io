@@ -1,69 +1,11 @@
 body {
-	background-color: black;
+	background-color: #fff;
 	line-height: 0.9;
-	color: white;
+	/*color: black;*/
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.clh1 {
-	color:#abf;
-	text-align: right;
-	padding-top: 125px;
-}
-
-.table {
-	border: 10;
-	color: white;
+h1 {
+    font-size: 28px;
+    font-family: Monaco, Courier, monospace;
+    color: #618ad2;
 }
